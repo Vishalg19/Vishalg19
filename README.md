@@ -1,5 +1,3 @@
-# Vishalg19.github.io
-
 # Hello, I'm Vishal Gangurde! 👋
 
 I'm a AI and Data Science Engineer and a Web Developer. I am passionate about stock market, playing cricket, making websites.
