@@ -1,6 +1,9 @@
 # Hello, I'm Vishal Gangurde! 👋
 
 I'm a AI and Data Science Engineer and a Web Developer. I am passionate about stock market, playing cricket, making websites.
+I'm a Software developer with expertise in DSA, Python, and Algorithms. Expertise in web development technologies including 
+Django, C#.NET and  MySQL. Applying for the position of Software Developer to leverage the technological advancements 
+and learnings.
 
 ## About Me
 
