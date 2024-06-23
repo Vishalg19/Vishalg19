@@ -1,41 +1,37 @@
 # Hello, I'm Vishal Gangurde! 👋
 
-I'm a AI and Data Science Engineer and a Web Developer. I am passionate about stock market, playing cricket, making websites.
-I'm a Software developer with expertise in DSA, Python, and Algorithms. Expertise in web development technologies including 
-Django, C#.NET and  MySQL. Applying for the position of Software Developer to leverage the technological advancements 
-and learnings.
+I'm an AI and Data Science Engineer, as well as a Web Developer. I am passionate about the stock market, playing cricket, and creating websites.
 
 ## About Me
 
-- 🔭 I’m currently working on Natural Calamities Prediction and Mitigation using deep learning and React Developement.
-- 🌱 I’m currently learning React, MongoDB and mastering JavaScript, CSS, Bootstrap.
-- 👯 I’m looking to collaborate for React development.
+- 🔭 I’m currently working on Natural Calamities Prediction and Mitigation using deep learning and React Development.
+- 🌱 I’m currently learning React, MongoDB, and mastering JavaScript, CSS, and Bootstrap.
+- 👯 I’m looking to collaborate on React development projects.
 - 🤔 I’m looking for help with some projects using React and other frontend technologies.
-- 💬 Ask me about Django, C++, Python, MySQL, HTML, CSS and JavaScript.
+- 💬 Ask me about Django, C++, Python, MySQL, HTML, CSS, and JavaScript.
 - 📫 How to reach me: gangurdev1910@gmail.com.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: Let's go on a surprise trek with me or just ask me for playing cricket together.
+- ⚡ Fun fact: Let's go on a surprise trek with me or just ask me to play cricket together.
 
 ## Skills
 
-- Languages: C++, Python, JavaScript, etc.
-- Tools & Technologies: VsCode, Visual Studio 2017, Jupyter Notebook, Django, C#.NET, Google Collab, etc.
-- Other Skills: [Other Skills or Expertise]
+- **Languages**: Python, JavaScript, C++
+- **Tools & Technologies**: VS Code, Visual Studio 2017, Jupyter Notebook, Django, C#.NET, Google Colab
+- **Other Skills**: Data Structures & Algorithms, Natural Language Processing, Deep Learning
 
 ## Projects
 
-- https://github.com/Vishalg19/Online-Auction
-- https://github.com/Vishalg19/Online-Auction
-- https://github.com/Vishalg19/ATM-using-Python
+- [Online Auction System](https://github.com/Vishalg19/Online-Auction)
+- [ATM Simulation using Python](https://github.com/Vishalg19/ATM-using-Python)
 
 ## Connect with Me
 
-- https://www.linkedin.com/in/vishal-gangurde
-- https://twitter.com/1910vishal
-- https://www.instagram.com/vishalgangurde_/
+- [LinkedIn](https://www.linkedin.com/in/vishal-gangurde)
+- [Twitter](https://twitter.com/1910vishal)
+- [Instagram](https://www.instagram.com/vishalgangurde_/)
 
-## Stats
+## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishalg19&show_icons=true&theme=radical)
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishalg19&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalg19&layout=compact)](https://github.com/Vishalg19/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalg19&layout=compact)](https://github.com/Vishalg19/github-readme-stats)
